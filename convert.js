@@ -1,14 +1,14 @@
-function red(){
-    var data = "&color255-0-0"
-}
-function green(){
-    var data = "&color0-255-0"
-
-}
-function blue(){
-    var data = "&color0-0-255"
-
-}
+// function red(){
+//     var data = "&color255-0-0"
+// }
+// function green(){
+//     var data = "&color0-255-0"
+//
+// }
+// function blue(){
+//     var data = "&color0-0-255"
+//
+// }
 
 function generate()
 {
