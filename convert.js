@@ -13,7 +13,7 @@ function blue(){
 function generate()
 {
     var link = document.getElementById("link").value;
-    var QRimg = ("https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=" + link + data);
+    var QRimg = ("https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=" + link );
     var x = document.querySelector('img')
     x.setAttribute("src",QRimg)
     down.href=QRimg ;
